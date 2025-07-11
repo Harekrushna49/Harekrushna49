@@ -7,8 +7,8 @@
 <h3 align="center">💻 MCA Student | Java Enthusiast | Building My Developer Journey</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **DSA in Java, Spring**
-- 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
+  🌱 I’m currently learning <strong>DSA in Java, Spring</strong><br>
+  📫 Reach out to me via: <strong>harekrushnanayak749@gmail.com</strong>
 </p>
 
 <div align="center">
