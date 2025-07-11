@@ -81,7 +81,7 @@
   </ul>
 </div>
 
-<p>
+<p align="center">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
 </a>
@@ -91,9 +91,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
 </a>
 
-<!-- Sublime Text -->
-<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" alt="sublime" width="40" height="40" />
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </a>
 
 <!-- Eclipse -->
