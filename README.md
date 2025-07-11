@@ -12,14 +12,14 @@
 
 - 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
 
-<!-- Coding GIF on the right -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="margin: 20px;" />
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="margin: 10px;" />
 
-<!-- Tech Stack Header -->
+<!-- Technologies Section -->
 <h2 align="center">Technologies That I Know 👨🏻‍💻</h2>
 
-<!-- Tech Stack Icons -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
+<!-- Technology Icons -->
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
@@ -65,13 +65,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
-</div>
+</p>
 
-<!-- Software Tools Header -->
-<h2 align="center" style="margin-top: 50px;">Software Tools 🛠️</h2>
+<!-- Software Tools Section -->
+<h2 align="center">Software Tools 🛠️</h2>
 
-<!-- Tools Icons -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 10px;">
+<p align="center">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
   </a>
@@ -87,7 +86,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40" />
   </a>
-</div>
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
