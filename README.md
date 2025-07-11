@@ -20,7 +20,11 @@
 <a href="https://www.leetcode.com/harekrushnanayak749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harekrushnanayak749" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
