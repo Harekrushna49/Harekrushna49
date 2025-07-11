@@ -28,9 +28,15 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,wordpress,sql,mysql,mongodb,git,github,bootstrap,firebase,discord,idea,linux,materialui,postman,intellij,vscode,sublime,eclipse;perline=14">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,wordpress,mysql,mongodb,git,github,bootstrap,firebase,discord,idea,linux,materialui,postman,intellij,vscode,sublime;perline=14">
   </a>
 </p>
+
+<div id="user-content-toc1">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Softwares and Tools</h2></summary>
+  </ul>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harekrushna49&show_icons=true&locale=en&layout=compact" alt="harekrushna49" /></p>
 
