@@ -13,14 +13,13 @@
 - 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
 
 
-<div id="user-content-toc"> 
-  <ul align="center"> 
-    <summary>
-      <h2 style="display: inline-block">Technologies That I Know <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px">
-      </h2>
-    </summary> 
-  </ul> 
-</div> 
+<div align="center">
+  <h2 style="display: inline-flex; align-items: center; gap: 10px;">
+    Technologies That I Know 
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="typing gif">
+  </h2>
+</div>
+
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
