@@ -121,12 +121,38 @@
 
 <!--icons and links-->
 <div class="google-auto-placed" style="width: 100%; height: auto; clear: none; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto; background-color: transparent; height: 0px;" data-ad-status="unfilled"><div id="aswift_2_host" style="border: none; height: 0px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: hidden; opacity: 0;"></div></ins></div><p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50"></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a>
+<a href="https://linkedin.com/in/harekrushna-nayak" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50">
+</a>
+<a href="https://twitter.com/imtpintu49" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50">
+</a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50">
+</a>
+<a href="https://1010nishant.hashnode.dev/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50">
+</a>
+<a href="https://discord.gg/UjwKkJsXsf" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50">
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234983678-0b5d460b-949b-4a0c-a8c4-6c93e7f662b3.png" alt="instagram" height="50" width="50">
+</a>
+<a href="https://leetcode.com/u/harekrushnanayak749/" target="_blank">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="50" width="50">
+</a>
+<a href="https://x.com/@imTPintu49" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="x-twitter" height="50" width="50">
+  </a>
+<a href="https://www.hackerrank.com/profile/harekrushna49" target="_blank">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="50" width="50">
+</a>
+<a href="https://codolio.com/profile/harekrushna" target="_blank">
+  <img align="center" src="https://codolio.in/images/codolioLogo.png" alt="codolio" height="50" width="50">
+</a>
 </p>
+
 <!--profile visit count-->
 <div align="center">
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
