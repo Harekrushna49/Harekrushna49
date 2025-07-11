@@ -100,6 +100,21 @@
 </a>
 </p>
 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,firebase,github,html,java,mysql,postman,py,vscode&perline=14" />
+  </a>
+</p>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -127,21 +142,6 @@
   </a>
 </div>
 <!--- trophy (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,firebase,github,html,java,mysql,postman,py,vscode&perline=14" />
-  </a>
-</p>
-
 
 <div id="user-content-toc">
   <ul align="center">
