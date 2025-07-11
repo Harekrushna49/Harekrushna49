@@ -136,20 +136,11 @@
 <a href="https://discord.gg/UjwKkJsXsf" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50">
 </a>
-<a href="https://www.instagram.com/" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234983678-0b5d460b-949b-4a0c-a8c4-6c93e7f662b3.png" alt="instagram" height="50" width="50">
-</a>
 <a href="https://leetcode.com/u/harekrushnanayak749/" target="_blank">
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="50" width="50">
 </a>
-<a href="https://x.com/@imTPintu49" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="x-twitter" height="50" width="50">
-  </a>
 <a href="https://www.hackerrank.com/profile/harekrushna49" target="_blank">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="50" width="50">
-</a>
-<a href="https://codolio.com/profile/harekrushna" target="_blank">
-  <img align="center" src="https://codolio.in/images/codolioLogo.png" alt="codolio" height="50" width="50">
 </a>
 </p>
 
