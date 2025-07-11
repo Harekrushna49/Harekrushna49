@@ -6,12 +6,11 @@
 <h1 align="center">Hi 👋, I'm Harekrushna Nayak</h1>
 <h3 align="center">💻 MCA Student | Java Enthusiast | Building My Developer Journey</h3>
 
-<p align="left"> <a href="https://twitter.com/imtpintu49" target="blank"><img src="https://img.shields.io/twitter/follow/imtpintu49?logo=twitter&style=for-the-badge" alt="imtpintu49" /></a> </p>
-
+<p align="center">
 - 🌱 I’m currently learning **DSA in Java, Spring**
 
 - 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
-
+</p>
 
 <div align="center">
   <h2 style="display: inline-flex; align-items: center; gap: 10px;">
