@@ -8,7 +8,6 @@
 
 <p align="center">
 - 🌱 I’m currently learning **DSA in Java, Spring**
-
 - 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
 </p>
 
