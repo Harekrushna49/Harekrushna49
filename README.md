@@ -1,7 +1,10 @@
 ![Banner](https://github.com/Harekrushna49/Harekrushna49/blob/main/Harekrushna.jpeg)
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--h1 without bottom border-->
 <h1 align="center">Hi 👋, I'm Harekrushna Nayak</h1>
-<h3 align="center">Tech Enthusiast & OJEE 2024 Rank Holder 🌟</h3>
+<h3 align="center">💻 MCA Student | Java Enthusiast | Building My Developer Journey</h3>
 
 <p align="left"> <a href="https://twitter.com/imtpintu49" target="blank"><img src="https://img.shields.io/twitter/follow/imtpintu49?logo=twitter&style=for-the-badge" alt="imtpintu49" /></a> </p>
 
