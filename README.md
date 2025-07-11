@@ -12,11 +12,6 @@
 
 - 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
 
-<div>
-  <p>
-    <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-  </p>
-</div>
 
 <div id="user-content-toc"> 
   <ul align="center"> 
