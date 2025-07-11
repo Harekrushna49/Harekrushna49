@@ -13,13 +13,6 @@
 - 📫 Reach out to me via: **harekrushnanayak749@gmail.com**
 
 
-<p align="left">
-<a href="https://twitter.com/imtpintu49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imtpintu49" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harekrushna-nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harekrushna-nayak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harekrushna49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harekrushna49" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harekrushnanayak749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harekrushnanayak749" height="30" width="40" /></a>
-</p>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -127,20 +120,14 @@
 <a href="https://twitter.com/imtpintu49" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50">
 </a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank">
+<a href="https://www.instagram.com/imt_pintu49/" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50">
-</a>
-<a href="https://1010nishant.hashnode.dev/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50">
-</a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50">
-</a>
-<a href="https://leetcode.com/u/harekrushnanayak749/" target="_blank">
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="50" width="50">
-</a>
+</a
 <a href="https://www.hackerrank.com/profile/harekrushna49" target="_blank">
   <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="50" width="50">
+</a>
+  <a href="https://leetcode.com/u/harekrushnanayak749/" target="_blank">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="leetcode" height="50" width="50">
 </a>
 </p>
 
