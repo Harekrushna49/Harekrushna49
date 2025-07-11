@@ -145,7 +145,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2></summary>
   </ul>
 </div>
 
